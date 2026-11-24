@@ -1,0 +1,4 @@
+C:/Users/Jad/Desktop/assinment v3/build/CMakeFiles/OpenGL.SharedModule.dir
+C:/Users/Jad/Desktop/assinment v3/build/CMakeFiles/GLProject.dir
+C:/Users/Jad/Desktop/assinment v3/build/CMakeFiles/edit_cache.dir
+C:/Users/Jad/Desktop/assinment v3/build/CMakeFiles/rebuild_cache.dir

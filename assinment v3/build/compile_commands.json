@@ -1,0 +1,134 @@
+[
+{
+  "directory": "C:/Users/Jad/Desktop/assinment v3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_C.rsp -g -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\glad.c.obj -c \"C:\\Users\\Jad\\Desktop\\assinment v3\\OpenGL.SharedModule\\src\\glad.c\"",
+  "file": "C:/Users/Jad/Desktop/assinment v3/OpenGL.SharedModule/src/glad.c",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/glad.c.obj"
+},
+{
+  "directory": "C:/Users/Jad/Desktop/assinment v3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\stb_image.cpp.obj -c \"C:\\Users\\Jad\\Desktop\\assinment v3\\OpenGL.SharedModule\\src\\stb_image.cpp\"",
+  "file": "C:/Users/Jad/Desktop/assinment v3/OpenGL.SharedModule/src/stb_image.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/stb_image.cpp.obj"
+},
+{
+  "directory": "C:/Users/Jad/Desktop/assinment v3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\imgui\\imgui.cpp.obj -c \"C:\\Users\\Jad\\Desktop\\assinment v3\\OpenGL.SharedModule\\src\\imgui\\imgui.cpp\"",
+  "file": "C:/Users/Jad/Desktop/assinment v3/OpenGL.SharedModule/src/imgui/imgui.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/imgui/imgui.cpp.obj"
+},
+{
+  "directory": "C:/Users/Jad/Desktop/assinment v3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\imgui\\imgui_demo.cpp.obj -c \"C:\\Users\\Jad\\Desktop\\assinment v3\\OpenGL.SharedModule\\src\\imgui\\imgui_demo.cpp\"",
+  "file": "C:/Users/Jad/Desktop/assinment v3/OpenGL.SharedModule/src/imgui/imgui_demo.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/imgui/imgui_demo.cpp.obj"
+},
+{
+  "directory": "C:/Users/Jad/Desktop/assinment v3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\imgui\\imgui_draw.cpp.obj -c \"C:\\Users\\Jad\\Desktop\\assinment v3\\OpenGL.SharedModule\\src\\imgui\\imgui_draw.cpp\"",
+  "file": "C:/Users/Jad/Desktop/assinment v3/OpenGL.SharedModule/src/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/imgui/imgui_draw.cpp.obj"
+},
+{
+  "directory": "C:/Users/Jad/Desktop/assinment v3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\imgui\\imgui_impl_glfw.cpp.obj -c \"C:\\Users\\Jad\\Desktop\\assinment v3\\OpenGL.SharedModule\\src\\imgui\\imgui_impl_glfw.cpp\"",
+  "file": "C:/Users/Jad/Desktop/assinment v3/OpenGL.SharedModule/src/imgui/imgui_impl_glfw.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/imgui/imgui_impl_glfw.cpp.obj"
+},
+{
+  "directory": "C:/Users/Jad/Desktop/assinment v3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\imgui\\imgui_impl_opengl3.cpp.obj -c \"C:\\Users\\Jad\\Desktop\\assinment v3\\OpenGL.SharedModule\\src\\imgui\\imgui_impl_opengl3.cpp\"",
+  "file": "C:/Users/Jad/Desktop/assinment v3/OpenGL.SharedModule/src/imgui/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/imgui/imgui_impl_opengl3.cpp.obj"
+},
+{
+  "directory": "C:/Users/Jad/Desktop/assinment v3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\imgui\\imgui_stdlib.cpp.obj -c \"C:\\Users\\Jad\\Desktop\\assinment v3\\OpenGL.SharedModule\\src\\imgui\\imgui_stdlib.cpp\"",
+  "file": "C:/Users/Jad/Desktop/assinment v3/OpenGL.SharedModule/src/imgui/imgui_stdlib.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/imgui/imgui_stdlib.cpp.obj"
+},
+{
+  "directory": "C:/Users/Jad/Desktop/assinment v3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\imgui\\imgui_tables.cpp.obj -c \"C:\\Users\\Jad\\Desktop\\assinment v3\\OpenGL.SharedModule\\src\\imgui\\imgui_tables.cpp\"",
+  "file": "C:/Users/Jad/Desktop/assinment v3/OpenGL.SharedModule/src/imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/imgui/imgui_tables.cpp.obj"
+},
+{
+  "directory": "C:/Users/Jad/Desktop/assinment v3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\imgui\\imgui_widgets.cpp.obj -c \"C:\\Users\\Jad\\Desktop\\assinment v3\\OpenGL.SharedModule\\src\\imgui\\imgui_widgets.cpp\"",
+  "file": "C:/Users/Jad/Desktop/assinment v3/OpenGL.SharedModule/src/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/imgui/imgui_widgets.cpp.obj"
+},
+{
+  "directory": "C:/Users/Jad/Desktop/assinment v3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\implementation\\Drawer.cpp.obj -c \"C:\\Users\\Jad\\Desktop\\assinment v3\\OpenGL.SharedModule\\src\\implementation\\Drawer.cpp\"",
+  "file": "C:/Users/Jad/Desktop/assinment v3/OpenGL.SharedModule/src/implementation/Drawer.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/implementation/Drawer.cpp.obj"
+},
+{
+  "directory": "C:/Users/Jad/Desktop/assinment v3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\implementation\\OpenGlShape.cpp.obj -c \"C:\\Users\\Jad\\Desktop\\assinment v3\\OpenGL.SharedModule\\src\\implementation\\OpenGlShape.cpp\"",
+  "file": "C:/Users/Jad/Desktop/assinment v3/OpenGL.SharedModule/src/implementation/OpenGlShape.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/implementation/OpenGlShape.cpp.obj"
+},
+{
+  "directory": "C:/Users/Jad/Desktop/assinment v3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\implementation\\SharedModule.cpp.obj -c \"C:\\Users\\Jad\\Desktop\\assinment v3\\OpenGL.SharedModule\\src\\implementation\\SharedModule.cpp\"",
+  "file": "C:/Users/Jad/Desktop/assinment v3/OpenGL.SharedModule/src/implementation/SharedModule.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/implementation/SharedModule.cpp.obj"
+},
+{
+  "directory": "C:/Users/Jad/Desktop/assinment v3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles\\GLProject.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GLProject.dir\\GLProject\\CardGameMain.cpp.obj -c \"C:\\Users\\Jad\\Desktop\\assinment v3\\GLProject\\CardGameMain.cpp\"",
+  "file": "C:/Users/Jad/Desktop/assinment v3/GLProject/CardGameMain.cpp",
+  "output": "CMakeFiles/GLProject.dir/GLProject/CardGameMain.cpp.obj"
+},
+{
+  "directory": "C:/Users/Jad/Desktop/assinment v3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles\\GLProject.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GLProject.dir\\GLProject\\cardgame\\CameraSystem.cpp.obj -c \"C:\\Users\\Jad\\Desktop\\assinment v3\\GLProject\\cardgame\\CameraSystem.cpp\"",
+  "file": "C:/Users/Jad/Desktop/assinment v3/GLProject/cardgame/CameraSystem.cpp",
+  "output": "CMakeFiles/GLProject.dir/GLProject/cardgame/CameraSystem.cpp.obj"
+},
+{
+  "directory": "C:/Users/Jad/Desktop/assinment v3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles\\GLProject.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GLProject.dir\\GLProject\\cardgame\\CardDeck.cpp.obj -c \"C:\\Users\\Jad\\Desktop\\assinment v3\\GLProject\\cardgame\\CardDeck.cpp\"",
+  "file": "C:/Users/Jad/Desktop/assinment v3/GLProject/cardgame/CardDeck.cpp",
+  "output": "CMakeFiles/GLProject.dir/GLProject/cardgame/CardDeck.cpp.obj"
+},
+{
+  "directory": "C:/Users/Jad/Desktop/assinment v3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles\\GLProject.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GLProject.dir\\GLProject\\cardgame\\DecorScoring.cpp.obj -c \"C:\\Users\\Jad\\Desktop\\assinment v3\\GLProject\\cardgame\\DecorScoring.cpp\"",
+  "file": "C:/Users/Jad/Desktop/assinment v3/GLProject/cardgame/DecorScoring.cpp",
+  "output": "CMakeFiles/GLProject.dir/GLProject/cardgame/DecorScoring.cpp.obj"
+},
+{
+  "directory": "C:/Users/Jad/Desktop/assinment v3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles\\GLProject.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GLProject.dir\\GLProject\\cardgame\\RoomEnvironment.cpp.obj -c \"C:\\Users\\Jad\\Desktop\\assinment v3\\GLProject\\cardgame\\RoomEnvironment.cpp\"",
+  "file": "C:/Users/Jad/Desktop/assinment v3/GLProject/cardgame/RoomEnvironment.cpp",
+  "output": "CMakeFiles/GLProject.dir/GLProject/cardgame/RoomEnvironment.cpp.obj"
+},
+{
+  "directory": "C:/Users/Jad/Desktop/assinment v3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles\\GLProject.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GLProject.dir\\GLProject\\cardgame\\TextureLoader.cpp.obj -c \"C:\\Users\\Jad\\Desktop\\assinment v3\\GLProject\\cardgame\\TextureLoader.cpp\"",
+  "file": "C:/Users/Jad/Desktop/assinment v3/GLProject/cardgame/TextureLoader.cpp",
+  "output": "CMakeFiles/GLProject.dir/GLProject/cardgame/TextureLoader.cpp.obj"
+},
+{
+  "directory": "C:/Users/Jad/Desktop/assinment v3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles\\GLProject.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GLProject.dir\\GLProject\\tools\\Cube.cpp.obj -c \"C:\\Users\\Jad\\Desktop\\assinment v3\\GLProject\\tools\\Cube.cpp\"",
+  "file": "C:/Users/Jad/Desktop/assinment v3/GLProject/tools/Cube.cpp",
+  "output": "CMakeFiles/GLProject.dir/GLProject/tools/Cube.cpp.obj"
+},
+{
+  "directory": "C:/Users/Jad/Desktop/assinment v3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles\\GLProject.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GLProject.dir\\GLProject\\tools\\Polygon.cpp.obj -c \"C:\\Users\\Jad\\Desktop\\assinment v3\\GLProject\\tools\\Polygon.cpp\"",
+  "file": "C:/Users/Jad/Desktop/assinment v3/GLProject/tools/Polygon.cpp",
+  "output": "CMakeFiles/GLProject.dir/GLProject/tools/Polygon.cpp.obj"
+},
+{
+  "directory": "C:/Users/Jad/Desktop/assinment v3/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles\\GLProject.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GLProject.dir\\GLProject\\tools\\ProceduralMesh.cpp.obj -c \"C:\\Users\\Jad\\Desktop\\assinment v3\\GLProject\\tools\\ProceduralMesh.cpp\"",
+  "file": "C:/Users/Jad/Desktop/assinment v3/GLProject/tools/ProceduralMesh.cpp",
+  "output": "CMakeFiles/GLProject.dir/GLProject/tools/ProceduralMesh.cpp.obj"
+}
+]
